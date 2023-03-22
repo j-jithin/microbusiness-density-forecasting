@@ -4,8 +4,7 @@ The goal of this project is to predict monthly microbusiness density in a given 
 
 ## Package Installation
 
-Package manager used is [conda](https://github.com/conda)
-Python Version - 3.10.9
+Package manager used is [conda](https://github.com/conda) and Python Version is 3.10.9
 
 
 ```bash
